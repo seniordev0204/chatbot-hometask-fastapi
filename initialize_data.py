@@ -20,7 +20,6 @@ index = pinecone.Index(default_index)
 
 openai = OpenAI(api_key=openai_api_key)
 
-
 def load_data_from_json(file_path):
     with open(file_path, "r") as file:
         data = json.load(file)
