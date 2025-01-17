@@ -90,7 +90,7 @@ async def handle_question(request: QuestionRequest):
     result = index.query(
         namespace=default_namespace,
         vector=get_embedding(question),
-        top_k=3,
+        top_k=4,
         include_values=True,
         include_metadata=True,
     )

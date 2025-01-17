@@ -1,14 +1,34 @@
 [
     {
         "question": "Who is the CEO of Unnian?",
-        "answer": "Ramesh C"
+        "answer": "Ramesh C."
     },
     {
-        "question": "What does Unnian do?",
-        "answer": "Unnian provides software solutions for AI-driven applications."
+        "question": "Explain about the CEO of Unnian.",
+        "answer": "Ramesh Choragudi is a serial entrepreneur who is dedicated to advising and investing in technology startups, specifically in HR, Data Ingestions & Observability, MLOps & AI space. In the past 6 years, Ramesh has founded and acquired over three companies, including two large staffing firms, multiple SaaS platforms, and serving hundreds of customers around the world. Ramesh’s key interests include Strategic IT Business Consulting Advisor, Mergers & Acquisitions, Business, Technology & Digital Transformations. As a regular contributor of thought leadership pieces to CXO conferences, Ramesh was recently inducted into the CIO and CXO Council.  To date, Ramesh has received numerous recognitions for his work. Ramesh also takes an active approach to Corporate Social Responsibility initiatives, contributing to philanthropic activities."
     },
     {
-        "question": "Where is Unnian located?",
-        "answer": "Unnian is headquartered in Bangalore, India."
-    }
+        "question": "Where is Ramesh, CEO of Unnian living?",
+        "answer": "Frisco, Texas, United States"
+    },
+	{
+		"question": "About CEO of Unnian, Ramesh's University.",
+		"answer": "Texas A&M University-San Antonio - Master of Business Administration(M.B.A) and Pondicherry University - Masters, Finantial Management"
+	},
+	{
+		"question": "Explain about the Unnian Company",
+		"answer": "UNIIAN stands for Universal Intelligent Automation. UNIIAN is Global Management Consulting Organization that provides IT Strategy and Operational Consulting that delivers Business Transformation Projects, Digital and IT Transformation Projects, Mergers and Acquisition Projects (M&A) and Keep Lights On for many Organizations help Onsite and Off-shore Models to make them successful by showing Business Value. Also Supports building strong Master Data Management intelligence platform for Retail, Oil & Gas (upstream, midstream, Downstream), Manufacturing that helps enterprises to proactively understand Master Data needs and Pains by leveraging Uniian's Global Templates to Jump start Projects using Machine Learning, Artificial Intelligence, Block Chain Technology and Cognitive technology to improve Business Value with high Data Quality and best Data Outcomes across the Organization needs. We support our customers to take the right decisions to have Data accuracy by showing a unique combination of Data quality Outcomes. The company's clients' scope is wide across the globe. Uniian has entered into a technology joint venture with Blockchain for strategic go-to-market and technology development to address Master Data needs across the enterprise. Uniian is recognized as one of the most innovative and niche advanced Digital Solution Provider by leading and implementing Master Data Projects successfully. Our Tools help clients to Jump-start projects by saving cost and time. We are Digital Partners, Technology Partners and Innovation Partners support all kind of Master Data needs for our Clients to make them successful in their Data strategy and Day to Day Operations. We are also Trusted Partners and advisers to fulfill our client needs."
+	},
+	{
+		"question": "How many people in Unnian",
+		"answer": "51-200 employees, 22 members in Linkedin"
+	},
+	{
+		"question": "What is the industry of Unnian?",
+		"answer": "Business Consulting and Services"
+	},
+	{
+		"question": "How can we describe the Ramesh?",
+		"answer": "Rama Prasad Chalasani said, Ramesh Choragudi is one of the most outstanding IT leaders I have come across at Tesoro. He is brilliant, very smart, very passionate and hardworking person. He is one of the key person behind SAP Budget Project's strong success in Tesoro and Tesoro Logistics. He has uncanny ability to simplify complex topics. He can deal with complex technical and business challenges with ease. His business and functional knowledge in Budgets, Forecasts and Actuals helped project to deliver to business very smoothly. As a SAP FI/CO Functional Architect and Project Manager, generated lot of business value (Saving 2 Million USD per year and by eliminating 27000 manual hours) for Tesoro Budget Project. Part of Tesoro Budget project we both were successfully able to achieve the goal - Customer satisfaction and exceeding expectations of customers. "
+	}
 ]
